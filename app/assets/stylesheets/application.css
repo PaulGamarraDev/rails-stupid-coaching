@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.quote {
+  border-color: #DDDDDD;
+}
